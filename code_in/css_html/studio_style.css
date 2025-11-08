@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Bitcount Grid Single", system-ui;
+     background-size: cover;
+
+}
+.main_box{
+    background: url("lens_background.jpeg");
+    height: 100vh;
+
+}
+.bitcount-grid-single {
+  font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: dark;
+  
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+}
+.btn_one{
+    color: white;
+    font-size: 30px; 
+}
+.btn_two{
+    color: black;
+    font: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 25px;
+    line-height: 60px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}

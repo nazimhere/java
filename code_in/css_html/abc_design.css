@@ -1,0 +1,39 @@
+h2{
+   color:gray;
+   /*background-color:blue ;*/
+}
+
+p{
+    color:rgb(12, 40, 50);
+    text-align: middle;
+    letter-spacing: 4px;
+    line-height: 4;
+   
+    text-decoration: dotted underline;
+}
+button{
+    color:white;
+    background-color: blue;
+}
+h1{
+    color:ff1511;
+    text-decoration:blue double underline;
+    font-family: Helvetica, sans-serif;
+    text-align:center;
+    font-size: 45px;
+    font-weight: 900px;
+    letter-spacing: 2px;
+    line-height: 59px;
+    text-transform:lowercase;
+}   
+.a{
+    color:red;
+}
+#apna{
+ color: green;
+
+}
+#aa{
+    font-size: 30px;
+    box-shadow:2px 2px 3px gray;
+}
