@@ -1,0 +1,33 @@
+
+*{
+text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px dotted black;
+    margin: 2rem;
+}
+.btn_c{
+    display: flex;
+    justify-content: center;
+} 
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.navy{
+    background-color: navy;
+}
+.grey {
+    background-color: grey;
+}
+.flash{
+    background-color: white;
+}
+.flashuser{
+    background-color: greenyellow;
+}
