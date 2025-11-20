@@ -5,7 +5,7 @@ text-align: center;
 .btn{
     height: 200px;
     width: 200px;
-    border-radius: 50%;
+    border-radius: 20%;
     border: 10px dotted black;
     margin: 2rem;
 }
